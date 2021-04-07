@@ -5,3 +5,4 @@ Majors in UCLA Math Department:
 2. Pure Math
 3. Data Theory
 4. Math of Comp
+5. Math Econ
